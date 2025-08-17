@@ -26,6 +26,11 @@ This project builds a chatbot that:
    - **BART** → for summarization (long answers).  
    - **BERT** → for question answering (short facts).
 
+5. **User Interface**  
+   - Built with **Gradio** for easy interaction.
+  
+     
+
 ## 🚀 Features
 - ✅ Ask agriculture-related questions  
 - ✅ Get answers directly from e-books  
@@ -43,32 +48,23 @@ This project builds a chatbot that:
 ## 🔮 Future Improvements
 
 - Add more agriculture books and datasets
-
 - Train models more deeply for better accuracy
-
 - Support multi-turn conversations (remember chat history)
-
 - Provide longer summaries in bullet points
 
 ## 🟢 Run in Google Colab (Easiest)
 
 - Go to Google Colab.
-
 - Upload the file Agriculture_Chatbot.ipynb.
-
 - The notebook will open.
-
 - Click Runtime → Run all
-
 - The chatbot will start. At the end, a link will appear — click it to open the Gradio Chatbot in a new tab.
 
 ## 👥 Authors
 
 - Jayamini Hewawasam
-
 - Shashikala Rajapaksha
 
   
 
-5. **User Interface**  
-   - Built with **Gradio** for easy interaction.  
+
