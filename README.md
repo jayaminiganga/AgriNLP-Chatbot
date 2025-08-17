@@ -50,6 +50,18 @@ This project builds a chatbot that:
 
 - Provide longer summaries in bullet points
 
+## 🟢 Run in Google Colab (Easiest)
+
+- Go to Google Colab.
+
+- Upload the file Agriculture_Chatbot.ipynb.
+
+- The notebook will open.
+
+- Click Runtime → Run all
+
+- The chatbot will start. At the end, a link will appear — click it to open the Gradio Chatbot in a new tab.
+
 ## 👥 Authors
 
 - Jayamini Hewawasam
